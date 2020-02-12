@@ -2,7 +2,7 @@
 
 *The Victorian Biodiversity Atlas. R. ARRGH Ahhh.*
 
-You downloaded from the Victorian Biodiversity Atlas.
+You downloaded data from the Victorian Biodiversity Atlas.
 
 You want to read it into R.
 
