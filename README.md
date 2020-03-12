@@ -13,10 +13,9 @@ This package makes you go "ahhhh."
 
 **IN DEVELOPMENT, NO DOCUMENTATION**
 
-**FUNCTIONS PROBABLY WORING THOUGH IF YOU'D LIKE TO TRY YOUR LUCK**
+**FUNCTIONS PROBABLY WORKING THOUGH IF YOU'D LIKE TO TRY YOUR LUCK**
 
 `read.vba` will read in a vba csv and get rid of the annoying top and bottom lines
-
 
 `process.vba` is a little more complicated but runs `read.vba` then processes geometry and renames some columns, removes others, converts counts into presence absence
 
